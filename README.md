@@ -20,5 +20,5 @@ I am a ** a student in center advcanced learning** currently exploring the world
 I am currently practicing my workflow by managing files like `README.md` and learning how to commit changes effectively.
 
 ## ✉️ Contact
-* **Email:** [Your Email Address]
-* **GitHub:** [Link to your Profile]
+* **Email:** lin5@calcharter.org
+* **GitHub:** https://github.com/zihenglin68
