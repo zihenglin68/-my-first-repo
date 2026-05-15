@@ -22,3 +22,4 @@ I am currently practicing my workflow by managing files like `README.md` and lea
 ## ✉️ Contact
 * **Email:** lin5@calcharter.org
 * **GitHub:** https://github.com/zihenglin68
+* LinkedinI** https://www.linkedin.com/in/ziheng-lin-0bb0333ab/
